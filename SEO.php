@@ -1,5 +1,5 @@
 <?php
-namespace Coxis\SEO;
+namespace Asgard\SEO;
 
 class SEO {
 	public static function canonical($controller, $canonical, $relative=true, $redirect=true) {
